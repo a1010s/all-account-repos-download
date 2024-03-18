@@ -34,5 +34,7 @@ This will clone all repositories from the specified GitHub account or organizati
 ## Notes
 Make sure to replace 'your-github-username', 'your-github-password', and 'github-account-or-organization-name' with your actual GitHub credentials and the account or organization name you want to clone repositories from.
 
-If you have 2-factor authentication enabled on your GitHub account, use a personal access token instead of a password. You can generate a personal access token in your GitHub account settings.
+If you have 2-factor authentication enabled on your GitHub account, use a personal access token instead of a password. 
+
+You can generate a personal access token in your GitHub account settings.
 Ensure that you have the necessary permissions to access the repositories you want to clone.
